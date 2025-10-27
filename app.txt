@@ -1,2 +1,3 @@
+App Title: SuperApp by Bob
 App Title: SuperApp by Alice
 Version: 1.0
