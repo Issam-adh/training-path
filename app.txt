@@ -1,2 +1,2 @@
-App Title: SuperApp
+App Title: SuperApp by Alice
 Version: 1.0
