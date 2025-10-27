@@ -1,2 +1,2 @@
-App Title: SuperApp
+App Title: SuperApp by Bob
 Version: 1.0
