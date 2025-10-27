@@ -1,0 +1,2 @@
+App Title: SuperApp
+Version: 1.0
